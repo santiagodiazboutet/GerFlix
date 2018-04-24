@@ -23,6 +23,10 @@ void mostrarUsuarioConSerie(eUsuario usuarios[], eSerie series[],int cantUsuario
                 }
             }
 
+
+
+
+
         }
 
 
